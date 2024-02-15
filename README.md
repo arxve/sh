@@ -1,4 +1,4 @@
-# Scriptarium
+# sh
 
 A diverse collection of Bash scripts, ranging from utilities to automation tools, designed to enhance your command-line experience and boost productivity. Below is a brief description of each script along with usage instructions.
 
@@ -36,13 +36,13 @@ A diverse collection of Bash scripts, ranging from utilities to automation tools
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/jmshtr/Scriptarium.git
+    git clone https://github.com/jmshtr/sh.git
     ```
 
 2. Navigate to the directory:
 
     ```bash
-    cd Scriptarium
+    cd sh
     ```
 
 3. Run any script using the provided usage instructions.
